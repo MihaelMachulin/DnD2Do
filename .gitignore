@@ -1,5 +1,9 @@
 test.html
-/День 2 бонус.pdf
-/Old1/
-/Old2/
+.firebaserc
+.gitattributes
+.gitignore
+firebase.json
+/.public/
+/.firebase/
+/.github/
 /.idea/
