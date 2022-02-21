@@ -1,9 +1,0 @@
-test.html
-.firebaserc
-.gitattributes
-.gitignore
-firebase.json
-/.public/
-/.firebase/
-/.github/
-/.idea/
